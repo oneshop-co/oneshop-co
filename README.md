@@ -1,16 +1,15 @@
-### Hi there 👋
+###👋 Hi there
 
-<!--
-**oneshop-co/oneshop-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oneshop-co** is a ✨ _special_ ✨ Dev team.<br>
+this team created by Arvin Zax (Arvin Shahpasand)<br>
+this team is working on **Fivem Platform** , **Web Full Stack Developing** , **Game Dev** , **3D Map Creation** , **And more ...**
 
-Here are some ideas to get you started:
+### My Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ff
+
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=oneshop-co&label=Profile%20Views&color=2&icon=0&pretty=false" />
+</a>
