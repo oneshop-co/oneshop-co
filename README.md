@@ -10,21 +10,21 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 [EN] , [FA]
 
 <h2>💎 My Skills:</h2>
-<p>👉 HTML                         [ 100% ]</p>
-<p>👉 CSS                          [ 100% ]</p>
-<p>👉 LUA                          [ 100% ]</p>
-<p>👉 JS                           [ 90% ]</p>
-<p>👉 REACT.JS                     [ 65% ]</p>
-<p>👉 BOOTSTRAP                    [ 100% ]</p>
-<p>👉 PHP                          [ 40% ]</p>
-<p>👉 C#                           [ 40% ]</p>
-<p>👉 C++                          [ 60% ]</p>
-<p>👉 minecraft developing         [ 100% ]</p>
-<p>👉 Fivem Developing             [ 100% ]</p>
-<p>👉 UI / UX Design               [ 60% ]</p>
-<p>👉 photoshop                    [ 60% ]</p>
-<p>👉 Video Producter              [ 60% ]</p>
-<p>👉 logo and banner designer     [ 100% ]</p>
+<p>👉 HTML *********************** [ 100% ]</p>
+<p>👉 CSS ************************ [ 100% ]</p>
+<p>👉 LUA ************************ [ 100% ]</p>
+<p>👉 JS ************************* [ 90% ]</p>
+<p>👉 REACT.JS ******************* [ 65% ]</p>
+<p>👉 BOOTSTRAP ****************** [ 100% ]</p>
+<p>👉 PHP ************************ [ 40% ]</p>
+<p>👉 C# ************************* [ 40% ]</p>
+<p>👉 C++ ************************ [ 60% ]</p>
+<p>👉 minecraft developing ******* [ 100% ]</p>
+<p>👉 Fivem Developing *********** [ 100% ]</p>
+<p>👉 UI / UX Design ************* [ 60% ]</p>
+<p>👉 photoshop ****************** [ 60% ]</p>
+<p>👉 Video Producter ************ [ 60% ]</p>
+<p>👉 logo and banner designer *** [ 100% ]</p>
 <br>
 <h2>✅ Primary Skill:</h2>
 
