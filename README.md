@@ -32,7 +32,6 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 
 <br><br>
 **All My works are in these links:**
-<br>https://www.linkedin.com/in/arvinzax/
 <br>https://www.pinterest.com/arvinzax/
 <br><br>
 
