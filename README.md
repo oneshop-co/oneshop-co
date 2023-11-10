@@ -44,7 +44,6 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/979691021908733965/1083104149115261008/purple-free-admin-dashboard-e1597995165506.png">(WEB) IMAGE</a>
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1089614143755132968/Annotation_2023-03-26_222823.png">(WEB) IMAGE</a>
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1092907312097796146/image.png">(WEB) IMAGE</a>
-[https://media.discordapp.net/attachments/927360175445250060/1092907312097796146/image.png](https://cdn.discordapp.com/attachments/905043269011009547/1172476057430011964/New_Project.png?ex=6560746b&is=654dff6b&hm=62adba7775297be0ac446118d382892f19508bd76c0f3a965ba571a3cd5f09b0&)
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1092907312097796146/image.png">(WEB) IMAGE</a>
 
 
