@@ -17,8 +17,6 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <p>👉 REACT.JS ******************* [ 65% ]</p>
 <p>👉 BOOTSTRAP ****************** [ 100% ]</p>
 <p>👉 PHP ************************ [ 40% ]</p>
-<p>👉 C# ************************* [ 40% ]</p>
-<p>👉 C++ ************************ [ 60% ]</p>
 <p>👉 minecraft developing ******* [ 100% ]</p>
 <p>👉 Fivem Developing *********** [ 100% ]</p>
 <p>👉 UI / UX Design ************* [ 60% ]</p>
