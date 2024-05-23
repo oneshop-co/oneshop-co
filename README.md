@@ -12,11 +12,15 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <h2>💎 My Skills:</h2>
 <p>👉 HTML *********************** [ 100% ]</p>
 <p>👉 CSS ************************ [ 100% ]</p>
+<p>👉 BOOTSTRAP CSS ************** [ 100% ]</p>
+<p>👉 TAILWIND CSS *************** [ 100% ]</p>
 <p>👉 LUA ************************ [ 100% ]</p>
-<p>👉 JS ************************* [ 90% ]</p>
-<p>👉 REACT.JS ******************* [ 65% ]</p>
-<p>👉 BOOTSTRAP ****************** [ 100% ]</p>
-<p>👉 PHP ************************ [ 40% ]</p>
+<p>👉 JS ************************* [ 100% ]</p>
+<p>👉 JQUERY ********************* [ 90% ]</p>
+<p>👉 REACT.JS ******************* [ 75% ]</p>
+<p>👉 VUE.JS ********************* [ 75% ]</p>
+<p>👉 PHP ************************ [ 80% ]</p>
+<p>👉 AI DESIGNER **************** [ 60% ]</p>
 <p>👉 minecraft developing ******* [ 100% ]</p>
 <p>👉 Fivem Developing *********** [ 100% ]</p>
 <p>👉 UI / UX Design ************* [ 60% ]</p>
@@ -26,7 +30,7 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <br>
 <h2>✅ Primary Skill:</h2>
 
-**Full Stack Web Developer & FiveM Frame Work Developer**
+**🎈Full Stack Web Developer🎈**
 
 <br><br>
 **All My works are in these links:**
@@ -36,7 +40,7 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <h2>💢 My Sample Works: 💢</h2>
 
 **[WEB PROJECTS]**
-<br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/979691021908733965/1083104148557398056/Annotation_2023-03-08_223415.png">(WEB) IMAGE</a>
+<br>Web Project: <a target="_blank" href="[https://media.discordapp.net/attachments/979691021908733965/1083104148557398056/Annotation_2023-03-08_223415.png](https://cdn.discordapp.com/attachments/1178284874797428807/1178289653342802010/image.png)">(WEB) IMAGE</a>
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/979691021908733965/1083104148838420531/Annotation_2023-03-08_223507.png">(WEB) IMAGE</a>
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/979691021908733965/1083104149115261008/purple-free-admin-dashboard-e1597995165506.png">(WEB) IMAGE</a>
 <br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1089614143755132968/Annotation_2023-03-26_222823.png">(WEB) IMAGE</a>
