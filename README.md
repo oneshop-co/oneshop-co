@@ -23,7 +23,7 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <p>👉 AI DESIGNER **************** [ 60% ]</p>
 <p>👉 minecraft developing ******* [ 100% ]</p>
 <p>👉 Fivem Developing *********** [ 100% ]</p>
-<p>👉 UI / UX Design ************* [ 60% ]</p>
+<p>👉 UI / UX Design ************* [ 100% ]</p>
 <p>👉 photoshop ****************** [ 60% ]</p>
 <p>👉 Video Producter ************ [ 60% ]</p>
 <p>👉 logo and banner designer *** [ 100% ]</p>
