@@ -38,30 +38,7 @@ this team is working on **Fivem Platform** , **Web Full Stack Developing** , **G
 <br><br>
 
 <h2>💢 My Sample Works: 💢</h2>
-
-**[WEB PROJECTS]**
-<br>Web Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/1178284874797428807/1178289653342802010/image.png">(WEB) IMAGE</a>
-<br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/979691021908733965/1083104148838420531/Annotation_2023-03-08_223507.png">(WEB) IMAGE</a>
-<br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/979691021908733965/1083104149115261008/purple-free-admin-dashboard-e1597995165506.png">(WEB) IMAGE</a>
-<br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1089614143755132968/Annotation_2023-03-26_222823.png">(WEB) IMAGE</a>
-<br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1092907312097796146/image.png">(WEB) IMAGE</a>
-<br>Web Project: <a target="_blank" href="https://media.discordapp.net/attachments/927360175445250060/1092907312097796146/image.png">(WEB) IMAGE</a>
-
-
-**[FiveM PROJECTS]**
-    <br>Fivem Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/1121743239121215568/1121747292093960223/image.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1078395244447543297/1172477408658587708/1_2.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1121741197065588736/1172477726356152340/one_shop.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1055361674179256410/1172477963359490068/1.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/1055361716197793812/1172478878674071553/1.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1060669858041319434/1171061635025219664/1.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1073590030204944454/1171061525595828326/1.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1152254552414892052/1172480165436215376/1.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://media.discordapp.net/attachments/1055361753145425970/1172480658665386055/1.png">(FIVEM) IMAGE</a>
-<br>Fivem Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/1055361848075100202/1055364835455545424/Dd2.mp4">(FIVEM) VIDEO</a>
-<br>Fivem Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/932637745162096671/1047928328075608104/radial-menu.mp4">(FIVEM) VIDEO</a>
-<br>Fivem Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/1055361753145425970/1055363522600648794/NEWBIE_ONESHOP.mp4">(FIVEM) VIDEO</a>
-<br>Fivem Project: <a target="_blank" href="https://cdn.discordapp.com/attachments/1078395244447543297/1078408422250266714/headlight.mp4">(FIVEM) VIDEO</a>
+<br>Web Project: <a target="_blank" href="https://www.pinterest.com/arvinzax/_created/">PREVIEW </a>
 
 <br><br>My Newer Projects on TEBEX: <a target="_blank" href="https://oneshop.tebex.io/">🛡TEBEX🛡</a>
 
