@@ -1,49 +1,107 @@
-<h1>👋 Hi there I Am Arvin Zax</h1>
+# Arvin Shahpasand · ARVIN ZAX
 
-**oneshop-co** is a ✨ _special_ ✨ Dev team.<br>
-this team created by Arvin Zax (Arvin Shahpasand)<br>
-this team is working on **Fivem Platform** , **Web Full Stack Developing** , **Game Dev** , **3D Map Creation** , **And more ...**
+**Senior FullStack Developer & UI/UX Specialist**  
+*13+ years of experience · Rank #7 Google Global Web Design Tournament · Harvard UI/UX Certified*
 
-<h2>Arvin Zax Info:</h2>
+---
 
-<h2>📢 My Speach Languages:</h2>
-[EN] , [FA]
+## 👋 About Me
 
-<h2>💎 My Skills:</h2>
-<p>👉 HTML *********************** [ 100% ]</p>
-<p>👉 CSS ************************ [ 100% ]</p>
-<p>👉 BOOTSTRAP CSS ************** [ 100% ]</p>
-<p>👉 TAILWIND CSS *************** [ 100% ]</p>
-<p>👉 node.js *************** [ 80% ]</p>
-<p>👉 LUA ************************ [ 100% ]</p>
-<p>👉 JS ************************* [ 100% ]</p>
-<p>👉 JQUERY ********************* [ 90% ]</p>
-<p>👉 REACT.JS ******************* [ 75% ]</p>
-<p>👉 VUE.JS ********************* [ 75% ]</p>
-<p>👉 PHP ************************ [ 80% ]</p>
-<p>👉 AI DESIGNER **************** [ 60% ]</p>
-<p>👉 minecraft developing ******* [ 100% ]</p>
-<p>👉 Fivem Developing *********** [ 100% ]</p>
-<p>👉 UI / UX Design ************* [ 100% ]</p>
-<p>👉 photoshop ****************** [ 60% ]</p>
-<p>👉 Video Producter ************ [ 60% ]</p>
-<p>👉 logo and banner designer *** [ 100% ]</p>
-<br>
-<h2>✅ Primary Skill:</h2>
+**Arvin Shahpasand** (ARVIN ZAX) is a Senior FullStack Developer and UI/UX Specialist from Iran with **13+ years** of experience in software architecture and product design.
 
-**🎈Full Stack Web Developer🎈**
+- 🏆 **Rank #7** — Google Global Web Design Tournament  
+- 🎓 **Harvard** — Certified UI/UX Professional  
+- 📊 **170+** successful projects (130+ Iranian, 40+ international clients)  
+- ✅ **160+** satisfied clients  
 
-<br><br>
-**All My works are in these links:**
-<br>https://www.pinterest.com/arvinzax/
-<br><br>
+I build **scalable web applications**, **e‑commerce platforms**, **mobile apps**, and **business automation** (Telegram, WhatsApp, Discord, Instagram bots). I focus on clean architecture, performance, and user-centered design.
 
-<h2>💢 My Sample Works: 💢</h2>
-<br>Web Project: <a target="_blank" href="https://www.pinterest.com/arvinzax/_created/">PREVIEW </a>
+---
 
-<br><br>My Newer Projects on TEBEX: <a target="_blank" href="https://oneshop.tebex.io/">🛡TEBEX🛡</a>
+## 🛠 Tech Stack
 
-<br><br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=oneshop-co&label=Profile%20Views&color=2&icon=0&pretty=false" />
-</a>
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | HTML5, CSS3, Bootstrap, TailWind CSS, JavaScript (ES6+), React.js, Vue.js, jQuery |
+| **Backend** | PHP, Node.js, Laravel, SQL, NoSQL, MongoDB |
+| **Architecture** | SaaS / Multi-tenant, Clean Architecture, SOLID, TypeScript, Next.js, Performance Optimization, E‑commerce & Payment Integration |
+| **Mobile** | React Native, Flutter, Ionic / Hybrid, PWA & Mobile Web |
+| **CMS** | WordPress (full development), PrestaShop (full development) |
+| **Bots & Automation** | Telegram, WhatsApp, Instagram, Discord bots |
+| **Other** | UI/UX Design, Lua, Technical SEO, Figma, Adobe XD, Docker, CI/CD, Git, Linux server administration |
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Ravankave**](https://ravankave.ir/) | Psychoanalysis institute — full platform (educational & therapeutic) |
+| [**CDNz**](https://cdnz.ir/) | First Iranian CDN for libraries — cloud CDN service site |
+| **Koosar Plus** | Holy shrine (Mashhad) — long-term organizational partnership |
+| **Leather brands** | Radis & Yalsan — e‑commerce and support |
+| **Game server dashboards** | High-traffic management UIs (React & Node.js) |
+| **Finance & shop panels** | Custom dashboards, clean codebase |
+
+---
+
+## 🎯 Services
+
+- **Web development** — Corporate, startup, and personal sites; high performance
+- **E‑commerce** — Scalable online stores that grow with your business
+- **UI/UX design** — User-friendly, conversion-focused interfaces
+- **Mobile apps** — iOS & Android (React Native, Flutter)
+- **Technical SEO** — On-page and technical optimization
+- **Business automation** — Bots and workflows to save time
+- **Extra services** — Dedicated hosting (99.9% uptime), free technical consultation, project management panel, backup & recovery, automation (forms, orders, notifications)
+
+**Collaboration models:** Fixed-cost (project-based) or **subscription** (VIP support, monthly updates, no heavy upfront cost).
+
+---
+
+## 📜 Certificates
+
+- Web Development  
+- UI/UX (Harvard)  
+- Programming  
+- User Interface Design  
+- Mobile App Development  
+- FullStack Development  
+
+---
+
+## 🌐 This Repository
+
+This repo is my **portfolio & personal site** ([arvinzax.ir](https://arvinzax.ir)), including:
+
+- **Portfolio** — About, skills, certificates, projects, services  
+- **Pricing calculator** — Project cost estimation  
+- **Contact** — Form + AI chatbot (DEVINE) for consulting  
+- **Shop** — Product catalog (in progress)  
+- **Admin panel** — Products, categories, orders, messages  
+
+**Stack:** PHP, vanilla JS, MySQL, OpenRouter AI (chatbot), responsive CSS.
+
+---
+
+## 📬 Contact
+
+| | |
+|---|---|
+| **Website** | [arvinzax.ir](https://arvinzax.ir) |
+| **Email** | info@arvinzax.ir |
+| **Telegram** | [t.me/arvinzax](https://t.me/arvinzax) |
+| **Instagram** | [@zax_dev](https://instagram.com/zax_dev) |
+| **LinkedIn** | [arvin-shahpasand](https://linkedin.com/in/arvin-shahpasand) |
+| **GitHub** | [oneshop-co](https://github.com/oneshop-co) |
+
+---
+
+<div align="center">
+
+**Arvin Shahpasand — ARVIN ZAX**  
+*Senior FullStack Developer & UI/UX Specialist*
+
+[Website](https://arvinzax.ir) · [Telegram](https://t.me/arvinzax) · [LinkedIn](https://linkedin.com/in/arvin-shahpasand)
+
+</div>
