@@ -9,8 +9,6 @@
 
 **Arvin Shahpasand** (ARVIN ZAX) is a Senior FullStack Developer and UI/UX Specialist from Iran with **13+ years** of experience in software architecture and product design.
 
-- 🏆 **Rank #7** — Google Global Web Design Tournament  
-- 🎓 **Harvard** — Certified UI/UX Professional  
 - 📊 **170+** successful projects (130+ Iranian, 40+ international clients)  
 - ✅ **160+** satisfied clients  
 
@@ -62,7 +60,7 @@ I build **scalable web applications**, **e‑commerce platforms**, **mobile apps
 ## 📜 Certificates
 
 - Web Development  
-- UI/UX (Harvard)  
+- UI/UX
 - Programming  
 - User Interface Design  
 - Mobile App Development  
