@@ -1,7 +1,7 @@
 # Arvin Shahpasand · ARVIN ZAX
 
 **Senior FullStack Developer & UI/UX Specialist**  
-*13+ years of experience · Rank #7 Google Global Web Design Tournament · Harvard UI/UX Certified*
+*13+ years of experience*
 
 ---
 
